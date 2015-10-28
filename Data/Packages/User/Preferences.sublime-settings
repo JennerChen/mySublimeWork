@@ -1,0 +1,21 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Espresso Libre.tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage"
+	],
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 0.5,
+	"material_theme_accent_yellow": true,
+	"material_theme_bold_tab": true,
+	"material_theme_disable_tree_indicator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"theme": "Material-Theme.sublime-theme"
+}

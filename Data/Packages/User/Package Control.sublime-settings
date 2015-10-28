@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Copy Relative Path",
+		"CSS Format",
+		"CSS3",
+		"DocBlockr",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScript Refactor",
+		"jQuery",
+		"JsFormat",
+		"Material Theme",
+		"Package Control",
+		"Terminal"
+	]
+}
